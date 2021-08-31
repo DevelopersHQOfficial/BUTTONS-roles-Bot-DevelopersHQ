@@ -55,7 +55,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.config = {
 	name: 'create-br',
 	description: 'Creates button role!',
-	usage: '?create-br',
+	usage: '.create-br',
 	botPerms: [],
 	userPerms: ['MANAGE_GUILD'],
 	aliases: [],
