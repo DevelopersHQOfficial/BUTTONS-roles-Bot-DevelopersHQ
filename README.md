@@ -1,7 +1,3 @@
-# buttonroles-example
-Example for @Nuggies-bot NPM
-
-<image src = 'https://cdn.discordapp.com/attachments/801132115755270164/857108297688285204/TBbPNb4S7a.gif'>
 
 # setup
 ### create a file named `.env`
@@ -14,4 +10,5 @@ Example for @Nuggies-bot NPM
   node .
 ```
 
-# 🌟Star if you like the bot, join our [support server](https://discord.gg/Z4ebH8PXeA) for any kind of support!
+# 🌟Star if you like the bot, join our [support server](https://discord.gg/gkHS46TJjn) for any kind of support!
+# TUTORIAL VIDEO COMING SOON 
