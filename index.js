@@ -32,6 +32,17 @@ fs.readdir('./commands/', (err, files) => {
     });
 });
 
+const express = require('express')
+const app = express();
+const port = 3000
+
+app.get('/', (req, res) => res.send('Hey there!'))
+
+app.listen(port, () =>
+console.log(`Your app is listening a http://localhost:${port}`)
+); 
+
+
 client.on('message', async message => {
     const prefix = '.'
     if (message.author.bot || message.channel.type === 'dm') return;
