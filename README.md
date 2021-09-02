@@ -11,4 +11,4 @@
 ```
 
 # 🌟Star if you like the bot, join our [support server](https://discord.gg/gkHS46TJjn) for any kind of support!
-# TUTORIAL VIDEO COMING SOON 
+# TUTORIAL VIDEO [TUTORIAL](https://youtu.be/TQ2c6Q6qKHI)
